@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site DZR</title>
+    <link>https://github.com/dzr201732120115/hugotest/post/</link>
+    <description>Recent content in Posts on My New Hugo Site DZR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 15:01:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/dzr201732120115/hugotest/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://github.com/dzr201732120115/hugotest/post/first/</link>
+      <pubDate>Tue, 07 Jul 2020 15:01:28 +0800</pubDate>
+      
+      <guid>https://github.com/dzr201732120115/hugotest/post/first/</guid>
+      <description>Hello Hugo  aaa bbb ccc  </description>
+    </item>
+    
+  </channel>
+</rss>

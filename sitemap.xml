@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/welcome/</loc>
+    <lastmod>2020-07-07T15:25:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/post/first/</loc>
+    <lastmod>2020-07-07T15:01:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/</loc>
+    <lastmod>2020-07-07T15:01:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/post/</loc>
+    <lastmod>2020-07-07T15:01:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/dzr201732120115/hugotest/tags/</loc>
+  </url>
+  
+</urlset>
